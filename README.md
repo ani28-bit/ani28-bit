@@ -137,7 +137,7 @@ Graph algorithm practice in C, and competitive programming solutions in C++.
 <p align="center">
   <i>"Strive not to be a success, but rather to be of value."</i>
   <br>
-  — Albert Einstein (commonly attributed)
+  — Albert Einstein 
 </p>
 
 <p align="center">
